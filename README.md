@@ -63,7 +63,8 @@ I ordered all of them directly from the publisher so I could get the teacher not
 
 # Typing in Spanish
 
-Please refer to TBD on how to type in Spanish on various platforms.
+* [Spanish Accents and Punctuation with a Mac](https://www.thoughtco.com/spanish-accents-and-punctuation-with-a-mac-3080299)
+* [How to Type Special Characters on Windows 11](https://www.theverge.com/23034476/windows-11-pc-how-to-type-special-characters)
 
 # The Study Plan
 
