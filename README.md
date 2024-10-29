@@ -1,7 +1,8 @@
 # How I learn Spanish 
 
 ```
-If you speak English already, Spanish is fairly easy to learn.  This document is primarily focused on Latin American Spanish.
+If you speak English already, Spanish is fairly easy to learn.
+This document is primarily focused on Latin American Spanish.
 Steve Smythe, v1.0.0 - Oct 29, 2024
 ```
 
