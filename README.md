@@ -100,7 +100,7 @@ I keep a notebook for my conjugation work before I type the answers into Conjuu.
 | **You - tú**           | hablas              | pagas            | bebes             | estás                   | quieres            |
 | **He/She - él/ella**   | habla               | paga             | bebe              | está                    | quiere             |
 | **We - nosotros**      | hablamos            | pagamos          | bebemos           | estamos                 | queremos           |
-| **They - ellos/ellas/ustedes** | hablan     | pagan            | beben             | están                   | quieren            |
+| **They - ellos/ellas/ustedes** | hablan      | pagan            | beben             | están                   | quieren            |
 
 I enter the verbs as they come up in the random order that Conjuu picks.  In the example case, I wrote down the Pronoun column first, then worked through each verb as Conjuu picked them.  Then after manually conjugating them and saying them out loud, I type them into Conjuu (without looking at my notes if I can).
 
@@ -143,10 +143,10 @@ Below is a step-by-step guide to understanding *"El Burro de Buridán"* as a beg
 **Objective**: Familiarize yourself with the text.
 
 1. **Read the Entire Text**: Read the story from start to finish without worrying about understanding every word. Focus on getting a general sense of the story.
-2. **Highlight Unknown Words**: As you read, highlight or underline any words or phrases you don’t understand.
+2. **Highlight Unknown Words**: As you read, highlight or underline any words or phrases you don't understand.
 
 **Activities**:
-- **Passive Reading**: Don’t use a dictionary yet. Just get a feel for the text.
+- **Passive Reading**: Don't use a dictionary yet. Just get a feel for the text.
 - **Highlighting**: Mark unfamiliar words or phrases.
 
 ## Step 2: Vocabulary and Basic Comprehension (Second Pass)
@@ -172,7 +172,7 @@ Below is a step-by-step guide to understanding *"El Burro de Buridán"* as a beg
 - **Grammar Analysis**: Note important grammar points and how they work in the sentence.
 
 **Prompt**:
-> Can you provide a simplified grammar breakdown of this sentence focusing on three key grammar points? I’d like to understand the most important aspects of the sentence structure as a beginner.
+> Can you provide a simplified grammar breakdown of this sentence focusing on three key grammar points? I'd like to understand the most important aspects of the sentence structure as a beginner.
 
 ## Step 4: Active Engagement (Fourth Pass)
 
@@ -278,7 +278,7 @@ Below is a step-by-step guide to understanding *"El Burro de Buridán"* as a beg
 
 #### Third Pass: Sentence analysis.
 
-- **Translation**: "The donkey doesn’t know what to decide: whether to eat or drink. In this horrible hesitation, death surprises him."
+- **Translation**: "The donkey doesn't know what to decide: whether to eat or drink. In this horrible hesitation, death surprises him."
 - **Grammar**: Note the use of "**si**" (if/whether) and "**le sorprende**" (surprises him).
 
 ---
