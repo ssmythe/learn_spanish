@@ -117,7 +117,8 @@ These beginning reader books are excellent for building reading skills, vocabula
 # Method for Learning Stories
 
 ```
-Note: this method was developed by ChatGPT as I was analyzing this story.  It was a fantastic collaboration to help be get the nuances of the story.
+Note: this method was developed by ChatGPT as I was analyzing this story.
+It was a fantastic collaboration to help be get the nuances of the story.
 ```
 
 ## Example Story: "El Burro de Buridán"
