@@ -112,7 +112,7 @@ Each day, I copy the entry from the frequency dictionary to my high frequency wo
 
 ## Books: Wonder Readers Spanish Emergent series
 
-These beginning reader books are excellent for building reading skills, vocabulary, and grammar.  Each reader is between 8 to 16 pages long.  There are pictures most every pages to give context and clues as to what's going on.
+These beginning reader books are excellent for building reading skills, vocabulary, and grammar.  Each reader is between 8 to 16 pages long.  There are pictures most every page to give context and clues as to what's going on.
 
 # Method for Learning Stories
 
