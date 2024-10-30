@@ -114,14 +114,12 @@ Each day, I copy the entry from the frequency dictionary to my high frequency wo
 
 These beginning reader books are excellent for building reading skills, vocabulary, and grammar.  Each reader is between 8 to 16 pages long.  There are pictures most every page to give context and clues as to what's going on.
 
-# Method for Learning Stories
+# Method for Reading Stories
 
 ```
 Note: this method was developed by ChatGPT as I was analyzing this story.
 It was a fantastic collaboration to help me get the nuances of the story.
 ```
-
-# Method for Spanish Story Analysis
 
 ## Method Steps
 
@@ -155,15 +153,13 @@ It was a fantastic collaboration to help me get the nuances of the story.
 
 This simplified approach gives you a foundational understanding of the story and helps build vocabulary and sentence structure awareness in a light and manageable way.
 
-### Example Story: "El Burro de Buridán"
+## Method Steps for Example Story: "El Burro de Buridán"
 
 Taken from:
 
 > Flores, Angel, editor. *First Spanish Reader: A Beginner's Dual-Language Book (Beginners' Guides)*. Snowball Publishing, 2011. ISBN-13: 978-1607963905.
 
 ---
-
-## Method Steps
 
 ### Step 1: First Read-Through
 1. **Objective**: Get a general sense of the story.
